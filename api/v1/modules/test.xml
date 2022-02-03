@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Persons>
+    <person>
+        <name>
+            <first_name>Alber</first_name>
+            <last_name>Einstein</last_name>                
+        </name>
+        <profession>phisix, maths</profession>
+    </person>
+</Persons>
